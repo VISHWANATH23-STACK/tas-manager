@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Task Manager",
+  "description": "A secure, real-time collaborative task manager with role-based access control, messaging, offline mode, data encryption, and milestone dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
